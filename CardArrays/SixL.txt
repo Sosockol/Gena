@@ -1,0 +1,14 @@
+"True to his title", 10
+"Bowyer's dream", 5
+"immortal resolve", 10
+"imperial legacy", 25
+"the celestial justicar", 10
+"the chains that bind", 30
+"the dapper prodigy", 30
+"the dark mage", 20
+"the ethereal", 10
+"the porcupine", 30
+"the warlord", 10
+"the white knight", 2
+"Vanity", 25
+"Humility", 50
